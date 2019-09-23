@@ -1,3 +1,5 @@
+/*Astar*/
+
 import java.util.*;
 public class AStar
 {
